@@ -1,6 +1,6 @@
 # McpArmRobot
 
-![](.\images\banner.jpg)
+![](./images/banner.jpg)
 
 本项目开发了一个桌面级智能协作机械臂系统，通过自然语言控制机械臂完成复杂的抓取、放置等任务。
 系统部署于NVIDIA Jetson边缘设备，利用Triton推理服务器对实时图像进行推理，实现精准的视觉场景解析，TensorRT提升推理速度。
@@ -15,4 +15,4 @@
 
 ## 手眼追踪
 
-![](.\images\tracking.png)
+![](./images/tracking.png)
